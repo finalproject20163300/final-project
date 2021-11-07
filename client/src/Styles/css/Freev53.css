@@ -1,0 +1,123 @@
+/* Freev53 Custom CSS */
+
+/* Footer */
+#Footer {
+  text-align: center;
+  width: 100%;
+  /* height: 7rem; */
+  padding: 0rem 0 0rem;
+}
+
+/* Audio */
+#Audio{
+  position: fixed;
+  transition: 0.5s;
+  bottom:-5.5rem;
+  visibility:hidden;
+  width: 100%;
+  z-index: 50;
+}
+
+#Header {
+  height: 5rem;
+  background-color: rgb(119, 119, 119);
+}
+
+/* FloatingButton */
+#FloatingButton{
+  position: fixed;
+  /* left: 95%; */
+  bottom: 5rem;
+}
+#FloatingButton button{
+  background-color: #444;
+}
+#FloatingButton div button{
+  background-color: #fff;
+}
+
+#menu_horizon {
+  float: right;
+  height: 100%;
+  line-height: initial
+}
+#menu_horizon li {
+  height: 100%;
+  padding: 1.5rem 1rem;
+  margin: 0 0.5rem;
+  vertical-align: text-bottom;
+  
+}
+/* RegisterForm 회원가입 폼 */
+#RegisterForm {
+  margin: auto;
+  width: 100%;
+  max-width: 40rem;
+}
+#RegisterForm div .ant-form-horizontal{
+  margin: auto;
+}
+/* #RegisterForm .ant-form-item-control-input-content{} */
+
+/* LoginForm 로그인 폼 */
+#LoginForm {
+  margin: auto;
+  max-width: 30rem;
+  width: 100%;
+  vertical-align: middle;
+}
+#LoginForm .ant-btn-primary {
+  width: 100%;
+}
+
+#Layout_NotFound{
+  width: 30rem;
+  height: 100vh;
+  margin: auto;
+  padding: 30vh 0;
+}
+#Layout_NotFound button {
+  margin: 1rem;
+}
+
+.logo {
+  height: 3.2rem;
+  /* background: rgba(0, 0, 0, 0.3); */
+  margin: 1.4rem;
+}
+.logo a {
+  font-size: 2rem;
+  color: #1890ff;
+}
+
+#Title{
+  font-size: 3rem;
+  color: #1890ff;
+}
+#Logo{
+  width: 100%;
+  /* background: rgba(0, 0, 0, 0.3); */
+  margin: auto;
+  padding: 2rem 0;
+}
+#Logo a {
+  font-size: 3rem;
+  color: #1890ff;
+}
+#Logo a:hover{
+  color: #1890ff;
+}
+
+.ant-menu-inline {
+  border-right: 0px;
+}
+.ant-layout-sider-trigger {
+  background: #1890ff !important;
+}
+/* .trigger {
+ color: white;
+} */
+
+/* .ant-menu-item-selected {
+  margin: 0px;
+} */
