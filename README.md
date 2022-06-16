@@ -3,7 +3,7 @@
 
  X-ray 이미지 판별 딥러닝 모델
 ## model
-![모델](https://user-images.githubusercontent.com/59239082/174129074-de529f50-3ac6-424b-90d3-a95215282fe4.jpg)
+![모델2](https://user-images.githubusercontent.com/59239082/174129997-42a09134-b8fe-4645-a519-1503d306bbdd.jpg)
 
 
 ## graph
